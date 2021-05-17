@@ -136,3 +136,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+#PyCharm
+.idea/
+
+#CatBoostTempFiles
+competition/notebooks/catboost_info/
+
+#CatsAndDogs Dataset
+data/cats_and_dogs
