@@ -1,7 +1,0 @@
-matplotlib==3.3.3
-numpy==1.19.3
-pandas
-seaborn
-streamlit==0.82.0
-sklearn
-catboost
