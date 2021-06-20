@@ -142,3 +142,6 @@ cython_debug/
 
 #CatBoostTempFiles
 competition/notebooks/catboost_info/
+
+#CatsAndDogs Dataset
+data/cats_and_dogs
